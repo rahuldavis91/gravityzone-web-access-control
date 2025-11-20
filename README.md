@@ -61,3 +61,12 @@ Verified logs for all blocked attempts in GravityZone → Threats Xplorer.
 ---
 
 ## 📂 Project Structure
+
+bitdefender-web-access-control/
+│
+├── README.md
+└── screenshots/
+├── 01-policy-creation.png
+├── 02-url-blacklist.png
+├── 03-blocked-page.png
+└── 04-logs.png
