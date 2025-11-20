@@ -1,0 +1,5 @@
+timestamp,url,category,action,endpoint
+2025-11-20 13:45:22,www.facebook.com,Social Networks,Blocked,Rahulkumar-PC
+2025-11-20 13:46:10,www.instagram.com,Social Networks,Blocked,Rahulkumar-PC
+2025-11-20 13:48:02,testbook.com,Education,Blocked,Rahulkumar-PC
+2025-11-20 13:50:55,192.168.248.140,Local IP,Allowed,Rahulkumar-PC
